@@ -1,9 +1,10 @@
-Scratch アカウント:
-<a href="https://scratch.mit.edu/users/Atridott/">Atridott</a>
+↓無くて草
 
-やることは多いのに呆けている中学生。
-ぎとはぶにはあまり浮上しない。
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atridott&layout=compact)
 
-使える言語： 日本語　Scratch　Python　HTML　英語　エスペラント　CSS　C
-
-使っているサービス： Scratch Figma Github Wikipedia （いずれもAtridott）
+使っているサービス （いずれもAtridott）
+* Figma
+* GitHub
+* Scratch
+* Qiita
+* Wikipedia
