@@ -6,5 +6,5 @@
 | Python | `print("Hello")`
 | C++ | `cout << "Hello";` |
 | たにわた | たうんです |
+| Haskell | `main = print "Hello"` |
 | Esperanto | Saluton |
-| Go | `fmt.Println("Hello")` |
